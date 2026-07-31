@@ -86,7 +86,6 @@ main { padding: 40px 0 80px; }
   border: 1px solid var(--border); border-left: 4px solid var(--accent);
   background: var(--card); border-radius: 8px; padding: 14px 18px; margin: 20px 0;
 }
-.callout.legalnote { border-left-color: #d98b00; }
 
 table.data { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 14px; display: block; overflow-x: auto; }
 table.data th, table.data td { border: 1px solid var(--border); padding: 9px 12px; text-align: left; vertical-align: top; }

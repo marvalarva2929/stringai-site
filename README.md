@@ -37,10 +37,8 @@ Assuming `https://<username>.github.io/stringai-site/`:
 
 To use e.g. `stringai.app`: add a file named `CNAME` (no extension) containing just `stringai.app`, point your domain's DNS at GitHub Pages, then set the custom domain under Settings → Pages.
 
-## Before you launch — please read
+## Maintenance notes
 
-These legal documents are **general templates, not legal advice.** Key things to review:
-- StringAI is operated by an individual (Joshua Vigel) with **no LLC**, so your personal assets are not shielded. The arbitration, warranty-disclaimer, liability-cap, and assumption-of-risk clauses reduce risk but do not replace an entity. **Strongly consider forming an LLC** and having a licensed attorney review `privacy.html` and `terms.html`.
-- Governing law / arbitration venue is set to **Texas**. If you move, update it.
+- Governing law / arbitration venue is set to **Texas**.
 - Keep the **effective/last-updated dates** current whenever you change a document.
 - Make sure your in-app **privacy label** in App Store Connect matches `privacy.html` (raw video/audio processed on device and not collected; email, purchases, identifiers, and derived data linked to the user; no tracking).
