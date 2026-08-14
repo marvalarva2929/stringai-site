@@ -82,7 +82,7 @@
       .then(function (response) {
         if (!response.ok) throw new Error('HTTP ' + response.status);
         form.reset();
-        say("You're on the list. We'll email you the day it launches.", 'ok');
+        say("You're on the list.", 'ok');
         button.textContent = 'Done';
       })
       .catch(function () {
